@@ -15,10 +15,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux Development Environment                 | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
-| Network Security Fundamentals                 | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
+| Linux Development Environment                 |                            |
+| Network Security Fundamentals                 |                            |
 | Network Programming                           | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
-| Socket Programming                            | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
+| Socket Programming                            |                            |
 | Vulnerability Assessment & Penetration Testing|                            |
 | Vulnerability Management Detection & Response |                            |
 | Web Application Firewalls (WAF)               |                            |
