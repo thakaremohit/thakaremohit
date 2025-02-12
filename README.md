@@ -3,12 +3,12 @@
 
 
 
-I'm a Computer Engineering graduate and cybersecurity enthusiast with experience in Application Security, WAPI, and Network Security. I am passionate about exploring new technologies and enhancing my skills in Linux and security analysis.
+I'm a Computer Engineering graduate and cybersecurity enthusiast with experience in Web Devlopement,Application Devlopement,Application Security, WAPI, and Network Security. I am passionate about exploring new technologies and enhancing my skills in Linux and security analysis.
 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
+My journey in computer science has led me to develop a passion for Cybersecurity, Web Devlopement, Application Devlopement, and I am now eager to transition into this field.
 
 ## Skills
 
