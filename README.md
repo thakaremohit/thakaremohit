@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Linux Development Environment                 |                            |
-| Network Security                              | <a href="https://github.com/thakaremohit/honeypot_ssh/tree/main">Network Mapper in C</a>                           |
+| Network Security                              | <a href="https://github.com/thakaremohit/honeypot_ssh/tree/main">Modular Honeypot for SSH & HTTP C</a>                           |
 | Network Programming                           | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
 | Socket Programming                            |                            |
 | Vulnerability Assessment & Penetration Testing|                            |
