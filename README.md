@@ -75,3 +75,4 @@ My journey in computer science has led me to develop a passion for Cybersecurity
 
 ## Projects
 - <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>
+- <a href="https://github.com/thakaremohit/honeypot_ssh/tree/main">Modular Honeypot for SSH & HTTP C</a>
