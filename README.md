@@ -3,12 +3,12 @@
 
 
 
-I'm a Computer Engineering graduate and cybersecurity enthusiast with experience in Application Devlopement, Application Security, WAPI, Web Devlopement and Network Security. I am passionate about exploring new technologies and enhancing my skills in Linux and security analysis.
+Experienced Cybersecurity Professional with 1+ years of hands-on experience in penetration testing, vulnerability
+assessment, and security analysis. Proven track record of identifying critical security vulnerabilities, conducting
+comprehensive security assessments, and implementing security solutions. Skilled in web application security
+testing, network security analysis, and threat detection with expertise in OWASP Top 10 vulnerabilities and
+security frameworks.
 
-## Objective
-
-
-My journey in computer science has led me to develop a passion for Cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
 
