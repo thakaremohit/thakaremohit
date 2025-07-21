@@ -1,78 +1,63 @@
-# Hello, I'm MOHIT THAKARE
-<a href="https://linkedin.com/in/mohit-thakare08/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi there 👋, I'm Mohit Thakare!
+
+I'm a Security Professional, a bit of Developer & Learner!! 🧑‍💻
+
+---
+
+- 🧠 Currently fuzzing the limits of my own brain
+- 🌱 I’m currently learning everything :)
+- 🛠️ I reverse engineer bugs into features
+
+---
+
+## Skills:
+
+- Web Application Penetration Testing  
+- API Security  
+- Network Penetration Testing  
+- Linux  
+- Incident Response  
+- Web Development  
+- Bash Scripting
+
+---
+
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-thakare08/)
+[![TryHackMe](https://img.shields.io/badge/-TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/thakaremohit8)
+[![picoCTF](https://img.shields.io/badge/-picoCTF-EE3C96?style=for-the-badge&logo=ctfd&logoColor=white)](https://play.picoctf.org/users/reconx)
 
 
+---
+## Languages and Tools:
 
-Experienced Cybersecurity Professional with 1+ years of hands-on experience in penetration testing, vulnerability
-assessment, and security analysis. Proven track record of identifying critical security vulnerabilities, conducting
-comprehensive security assessments, and implementing security solutions. Skilled in web application security
-testing, network security analysis, and threat detection with expertise in OWASP Top 10 vulnerabilities and
-security frameworks.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
 
+---
 
-## Skills
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k4pil&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4pil&layout=compact&theme=tokyonight" />
+</p>
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Linux Development Environment                 |                            |
-| Network Security                              | <a href="https://github.com/thakaremohit/honeypot_ssh/tree/main">Modular Honeypot for SSH & HTTP C</a>                           |
-| Network Programming                           | <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>|
-| Socket Programming                            |                            |
-| Vulnerability Assessment & Penetration Testing|                            |
-| Vulnerability Management Detection & Response |                            |
-| Web Application Firewalls (WAF)               |                            |
-| Web Application Security                      |                            |
-| IT System Security                            |                            |
+---
 
-## Tools
+### 🔥 Random Wisdom
 
+> _“If it’s not broken, fuzz it anyway.” – Me, probably at 3am_
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=network&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-FF5E00?style=for-the-badge&logo=burp-suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nikto-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-
-
-
-</div>
-
-### Pen-Testing Tools
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-2C5BB4?style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLmap-BF0000?style=for-the-badge&logo=sql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shodan-AA0000?style=for-the-badge&logo=shodan&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-6D5B8D?style=for-the-badge&logo=nessus&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Recon--ng-FF6600?style=for-the-badge&logo=security&logoColor=white" />
-
-
-
-</div>
-
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-
-</div>
-
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Cyber%20Security%20%26%20Forensics%20Graduate-003A70?style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ethical%20Hacking%3A%20Hacking%20Web%20Servers%20%26%20Web%20Applications-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/-Qualys%20Vulnerability%20Management%2C%20Detection%20%26%20Response-7D2C6F?style=for-the-badge&logo=qualys&logoColor=white" />
-<img src="https://img.shields.io/badge/-Ethical%20Hacking%3A%20Vulnerability%20Analysis-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-
-
-
-
-
-</div>
-
-## Projects
-- <a href="https://github.com/thakaremohit/Network-Mapper-in-C/tree/main">Network Mapper in C</a>
-- <a href="https://github.com/thakaremohit/honeypot_ssh/tree/main">Modular Honeypot for SSH & HTTP C</a>
