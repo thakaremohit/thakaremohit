@@ -1,24 +1,30 @@
-# Hi there 👋, I'm Mohit Thakare!
+<h1 align="center">Hey there 👋, I'm Mohit Thakare (aka recon)</h1>
+<p align="center">
+🛡️ Security Professional | 🧠 Learning on loop | ☕ Running on Caffeine
+</p>
 
-I'm a Security Professional, a bit of Developer & Learner!! 🧑‍💻
+### 🧠 About Me
+- 👨‍💻 Hacker. I look like I just woke up. That’s when I break the most things.
+- 🌱 Currently learning: Everything. Yes, everything.
+- 🧭 Motto: Explore > Hack > Sleep (optional)
+- 💬 Ask me about: XSS, APIs, Recon, and memes.
 
 ---
 
-- 🧠 Currently fuzzing the limits of my own brain
-- 🌱 I’m currently learning everything :)
-- 🛠️ I reverse engineer bugs into features
+### 🧰 Skills I flex (and sometimes break things with)
+
+- 🕸️ Web / API / Network Penetration Testing
+- 🐧 Linux sorcery + incident response
+- 💥 Bash, Python, and vulnerability confusion
+- 🔐 OWASP Top 10? I prefer **OWASP Top 11**, because... why stop?
 
 ---
 
-## Skills:
+### 🧪 Projects & Shenanigans
 
-- Web Application Penetration Testing  
-- API Security  
-- Network Penetration Testing  
-- Linux  
-- Incident Response  
-- Web Development  
-- Bash Scripting
+- `🪤 SSH+HTTP Modular Honeypot` – Sniffing naughty packets since 2023
+- `🌐 Advanced Network Scanner` – My C-powered caffeine replacement
+- `🔓 Bash scripts` – Because GUIs are for the weak
 
 ---
 
@@ -40,14 +46,23 @@ I'm a Security Professional, a bit of Developer & Learner!! 🧑‍💻
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k4pil&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k4pil&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakaremohit&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakaremohit&layout=compact&theme=tokyonight" />
 </p>
 
 ---
